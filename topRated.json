@@ -1,0 +1,64 @@
+[
+    {
+      "id": 1,
+      "name": "Bulgogi",
+      "ingredients": [
+        "beef",
+        "soy sauce",
+        "sugar",
+        "sesame oil",
+        "garlic",
+        "scallions"
+      ],
+      "instructions": "1. Thinly slice beef and marinate in soy sauce, sugar, sesame oil, garlic, and scallions. 2. Grill or pan-fry until cooked through.",
+      "picture_url": "https://assets.bonappetit.com/photos/57acd741f1c801a1038bc801/1:1/w_2560%2Cc_limit/basic-bulgogi.jpg",
+      "rating": 4.5,
+      "likes": 250,
+      "about" : "Bulgogi is a popular Korean dish made with marinated slices of beef, cooked on a grill, and served with rice and various side dishes."
+    },
+    {
+      "id": 2,
+      "name": "Galbi",
+      "instructions": "1. Marinate beef short ribs in soy sauce, sugar, garlic, sesame oil, and grated pear. 2. Grill or broil until charred and cooked through.",
+      "picture_url": "https://www.seriouseats.com/thmb/xBpjlTGEywUgh43aMVSFcq014lg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__07__20190619-korean-bbq-kalbi-beef-short-ribs-vicky-wasik-21-6d69144cd74a478a81b0286b19cd79ba.jpg",
+      "rating": 4.8,
+      "likes": 300,
+      "about" : "Galbi is a Korean dish of marinated and grilled beef short ribs with a sweet and savory flavor. Galbi, also known as Kalbi"
+    },
+    {
+      "id": 3,
+      "name": "Samgyupsal",
+      "instructions": "1. Season pork belly with salt and pepper. 2. Grill or pan-fry until crispy and cooked through.",
+      "picture_url": "https://www.knorr.com/content/dam/unilever/knorr_world/philippines/photography_and_pictures/homestyle-samgyupsal-85985123-jpg.jpg",
+      "rating": 4.2,
+      "likes": 200,
+      "about" : "Samgyupsal is a Korean dish of grilled pork belly served with various side dishes and wrapped in lettuce leaves."
+
+    },
+    {
+      "id": 4,
+      "name": "Dak galbi",
+      "instructions": "1. Marinate chicken in gochujang, soy sauce, sugar, garlic, and scallions. 2. Stir-fry with rice cakes until chicken is cooked through.",
+      "picture_url": "https://christieathome.com/wp-content/uploads/2020/01/Dak-Galbi-12.jpg",
+      "rating": 4.6,
+      "likes": 275,
+      "about" : "Dak galbi is a spicy Korean stir-fried dish made with marinated chicken and vegetables, often served with rice or noodles."
+    },
+    {
+      "id": 5,
+      "name": "Banchan",
+      "instructions": "1. Prepare various vegetables such as spinach, bean sprouts, and radish. 2. Season with soy sauce, sugar, vinegar, and garlic. 3. Serve as side dishes.",
+      "picture_url": "https://thedevilwearssalad.com/wp-content/uploads/2021/08/Korean-side-dishes-banchan-1.jpg",
+      "rating": 4.3,
+      "likes": 225,
+      "about" :"Banchan are small, flavorful side dishes served in Korean cuisine, made with a variety of ingredients and seasoning."
+    },
+    {
+      "id": 6,
+      "name": "Japchae",
+      "rating": 4.3,
+      "likes": 225,
+      "picture_url": "https://www.maangchi.com/wp-content/uploads/2007/07/japchae_plate.jpg",
+      "about" : "Japchae is a popular Korean dish made with sweet potato starch noodles, stir-fried with vegetables, meat, and mushrooms."
+    }]
+  

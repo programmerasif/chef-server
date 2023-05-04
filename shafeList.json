@@ -1,0 +1,167 @@
+{
+    "chefs": [
+      {
+        "id": 1,
+        "name": "Jin Soo Choi",
+        "experience_years": 15,
+        "rating": 4.8,
+        "Numbers_of_recipes" : 5,
+        "img_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/67036782/3169978968.jpg",
+        "country": "Korea",
+        "bio": "Jin Soo Choi, better known as Chef Wan, is a Korea celebrity chef and TV personality. He is known for his energetic personality and his traditional Malaysian cooking. He has published several cookbooks and has his own cooking show on TV.",
+        "recipes": [
+          {
+            "name": "Bibimbap",
+            "description": "A Korean dish consisting of rice topped with vegetables, meat, egg, and gochujang (chili paste).",
+            "img_url": "https://example.com/bibimbap.jpg"
+          },
+          {
+            "name": "Kimchi",
+            "description": "A traditional Korean side dish made from salted and fermented vegetables, most commonly napa cabbage and Korean radishes.",
+            "img_url": "https://example.com/kimchi.jpg"
+          },
+          {
+            "name": "Japchae",
+            "description": "A Korean dish made from stir-fried glass noodles and vegetables, usually served with meat (beef, pork, or chicken).",
+            "img_url": "https://example.com/japchae.jpg"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hyeon-seok Choi",
+        "experience_years": 10,
+        "rating": 4.6,
+        "Numbers_of_recipes" : 5,
+        "img_url": "https://www.insidehook.com/wp-content/uploads/2022/09/Chef-Stress-1.jpg?fit=1200%2C800",
+        "country": "Korea",
+        "bio": "Hyeon-seok Choi is a South Korean actor and chef. He discovered his love for cooking while studying abroad in Canada and decided to pursue it as a career. He has worked in several top restaurants in Seoul and has won several culinary awards.",
+        "recipes": [
+          {
+            "name": "Japchae",
+            "description": "A Korean dish made from stir-fried glass noodles and vegetables, usually served with meat (beef, pork, or chicken).",
+            "img_url": "https://example.com/japchae.jpg"
+          },
+          {
+            "name": "Tteokbokki",
+            "description": "A popular Korean street food made from soft rice cakes, fish cakes, and sweet/spicy chili sauce.",
+            "img_url": "https://example.com/tteokbokki.jpg"
+          },
+          {
+            "name": "Budae-jjigae",
+            "description": "A spicy Korean stew made with ham, sausage, Spam, baked beans, kimchi, and noodles, originally created after the Korean War using surplus U.S. Army rations.",
+            "img_url": "https://example.com/budae-jjigae.jpg"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Jung Sik Yim",
+        "experience_years": 20,
+        "rating": 4.9,
+        "Numbers_of_recipes" : 4,
+        "img_url": "https://elements-video-cover-images-0.imgix.net/files/07ff0fbe-ff84-43a0-9c4c-08d8e201c6fb/inline_image_preview.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=d6de97a5403a8a1de1bdb10faa4e98da",
+        "country": "Korea",
+        "bio": "Jung Sik Yim is a Korean actor and chef. He is passionate about creating new and innovative dishes that blend traditional Korean flavors with modern techniques. He has been featured in several food magazines and has his own cooking show on TV.",
+        "recipes": [
+          {
+            "name": "Galbi",
+            "description": "A Korean dish made from marinated beef short ribs, grilled or broiled to perfection.",
+            "img_url": "https://example.com/galbi.jpg"
+          },
+          {
+            "name": "Bulgogi",
+            "description": "A Korean dish made from marinated beef or pork, thinly sliced and grilled or stir-fried.",
+            "img_url": "https://example.com/bulgogi.jpg"
+          }, {
+            "name": "Bibimbap",
+            "description": "A Korean dish consisting of rice topped with vegetables, meat, egg, and gochujang (chili paste).",
+            "img_url": "https://example.com/bibimbap.jpg"
+          }
+        ]
+      },
+      {
+        "id": 4,
+      "name": "Tae Hwan Ryu",
+      "experience_years": 8,
+      "rating": 4.3,
+      "Numbers_of_recipes" : 7,
+      "img_url": "https://res.heraldm.com/phpwas/restmb_idxmake.php?idx=621&simg=/content/image/2019/07/11/20190711000539_0.jpg",
+      "country": "Korea",
+      "bio": "Tae Hwan Ryu is a Korea chef and restaurateur. He is known for his innovative approach to Asian cuisine and his commitment to using only the freshest and most sustainable ingredients. He has worked in some of the top restaurants in Europe and Asia and has won numerous culinary awards.",
+        "recipes": [
+          {
+            "name": "Bibimbap",
+            "description": "A Korean dish consisting of rice topped with vegetables, meat, egg, and gochujang (chili paste).",
+            "img_url": "https://example.com/bibimbap.jpg"
+          },
+          {
+            "name": "Kimchi",
+            "description": "A traditional Korean side dish made from salted and fermented vegetables, most commonly napa cabbage and Korean radishes.",
+            "img_url": "https://example.com/kimchi.jpg"
+          },
+          {
+            "name": "Bibimbap",
+            "description": "A Korean dish consisting of rice topped with vegetables, meat, egg, and gochujang (chili paste).",
+            "img_url": "https://example.com/bibimbap.jpg"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Jin Soo Choi",
+        "experience_years": 15,
+        "rating": 4.8,
+        "Numbers_of_recipes" : 3,
+        "img_url": "https://www.vmcdn.ca/f/files/rwcpulse/images/redwoodcitypulse/stories/twelvemonth-18.jpg;w=1200;h=800;mode=crop",
+        "country": "Korea",
+        "bio": "Jin Soo Choi is a Korean pastry chef and chocolatier. She is known for her avant-garde approach to desserts and her unique flavor combinations. She has won several international pastry competitions and has been featured in numerous food magazines and TV shows.",
+
+        "recipes": [
+          {
+            "name": "Bibimbap",
+            "description": "A Korean dish consisting of rice topped with vegetables, meat, egg, and gochujang (chili paste).",
+            "img_url": "https://example.com/bibimbap.jpg"
+          },
+          {
+            "name": "Kimchi",
+            "description": "A traditional Korean side dish made from salted and fermented vegetables, most commonly napa cabbage and Korean radishes.",
+            "img_url": "https://example.com/kimchi.jpg"
+          },
+          {
+            "name": "Kimchi",
+            "description": "A traditional Korean side dish made from salted and fermented vegetables, most commonly napa cabbage and Korean radishes.",
+            "img_url": "https://example.com/kimchi.jpg"
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Hyeon-seok Choi",
+        "experience_years": 10,
+        "rating": 4.6,
+        "img_url": "https://www.csftw.edu/wp-content/uploads/Types-of-Chefs.jpg",
+        "country": "Korea",
+        "Numbers_of_recipes" : 6,
+        "bio": "Hyeon-seok Choi, better known as Chef Wan, is a Korean celebrity chef and TV personality. He is known for his energetic personality and his traditional Malaysian cooking. He has published several cookbooks and has his own cooking show on TV.",
+
+        "recipes": [
+          {
+            "name": "Japchae",
+            "description": "A Korean dish made from stir-fried glass noodles and vegetables, usually served with meat (beef, pork, or chicken).",
+            "img_url": "https://example.com/japchae.jpg"
+          },
+          {
+            "name": "Tteokbokki",
+            "description": "A popular Korean street food made from soft rice cakes, fish cakes, and sweet/spicy chili sauce.",
+            "img_url": "https://example.com/tteokbokki.jpg"
+          },
+          {
+            "name": "Budae-jjigae",
+            "description": "A spicy Korean stew made with ham, sausage, Spam, baked beans, kimchi, and noodles, originally created after the Korean War using surplus U.S. Army rations.",
+            "img_url": "https://example.com/budae-jjigae.jpg"
+          }
+        ]
+      }
+      
+      ]}

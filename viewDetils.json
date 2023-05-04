@@ -1,0 +1,256 @@
+{
+    "chefs": [
+      {
+        "id": 1,
+        "name": "Jin Soo Choi",
+        "experience_years": 15,
+        "rating": 4.8,
+        "Numbers_of_recipes" : 5,
+        "Likes" : "1.5k",
+        "img_url": "https://d2j6dbq0eux0bg.cloudfront.net/images/67036782/3169978968.jpg",
+        "country": "Korea",
+        "bio": "Jin Soo Choi is a South Korean actor and chef. He discovered his love for cooking while studying abroad in Canada and decided to pursue it as a career. He has worked in several top restaurants in Seoul and has won several culinary awards.",
+        "recipes": [
+            
+            {
+                "name": "Japchae",
+                "description": "Soak shiitake mushrooms in warm water, drain and slice them thinly. Julienne onion, red bell pepper, and carrot. Blanch spinach and chop it into bite-sized pieces. Cook sweet potato starch noodles, drain and rinse with cold water. Stir-fry mushrooms, onions, carrots, and bell pepper with soy sauce, sugar, and sesame oil. Add spinach and noodles, stir until coated in sauce. Garnish with sesame seeds and scallions. Serve hot or at room temperature.",
+                "img_url": "https://example.com/japchae.jpg",
+                "ingredients" : "sugar, vegetables oil, beef, spinach, Boil-Water ,carrot,onion",
+                "rating": 4.6
+              },
+          {
+            "name": "Bibimbap",
+            "description": "To make Bibimbap, cook short-grain rice and marinate beef in bulgogi sauce. Prepare vegetables by julienning carrot, zucchini, and slicing shiitake mushrooms. Sauté the vegetables with garlic, soy sauce, sugar, and gochujang. Fry eggs until whites are set but yolks are runny. Assemble bibimbap by topping rice with beef, vegetables, and egg, garnish with sesame seeds and scallions, mix and enjoy!",
+            "img_url": "https://example.com/bibimbap.jpg",
+            "ingredients" : " vegetables, meat, egg, gochujang, Rice,Short-grain rice,Carrot",
+            "rating": 4.4
+
+          },
+          {
+            "name": "Kimchi",
+            "description": "A traditional Korean side dish made from salted and fermented vegetables, most commonly napa cabbage and Korean radishes.",
+            "img_url": "https://example.com/kimchi.jpg",
+            "ingredients" : " vegetables, Korean radishes, egg, gochujang, salted",
+            "rating": 4.8
+          }
+          ,
+          {
+            "name": "Tteokbokki",
+            "description": "A popular Korean street food made from soft rice cakes, fish cakes, and sweet/spicy chili sauce.",
+            "img_url": "https://example.com/tteokbokki.jpg",
+            "ingredients" : " soft-rice-cakes, fish-cakes, egg-cakes, chili sauce, salted",
+                "rating": 4.5
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Hyeon-seok Choi",
+        "experience_years": 10,
+        "rating": 4.6,
+        "Numbers_of_recipes" : 5,
+        "Likes" : "1.5k",
+        "img_url": "https://www.insidehook.com/wp-content/uploads/2022/09/Chef-Stress-1.jpg?fit=1200%2C800",
+        "country": "Korea",
+        "bio": "Hyeon-seok Choi, better known as Chef Wan, is a Korean celebrity chef and TV personality. He is known for his energetic personality and his traditional Malaysian cooking. He has published several cookbooks and has his own cooking show on TV.",
+        "recipes": [
+            {
+                "name": "Bibimbap",
+                "description": "To make Bibimbap, cook short-grain rice and marinate beef in bulgogi sauce. Prepare vegetables by julienning carrot, zucchini, and slicing shiitake mushrooms. Sauté the vegetables with garlic, soy sauce, sugar, and gochujang. Fry eggs until whites are set but yolks are runny. Assemble bibimbap by topping rice with beef, vegetables, and egg, garnish with sesame seeds and scallions, mix and enjoy!",
+                "img_url": "https://example.com/bibimbap.jpg",
+                "ingredients" : " vegetables, meat, egg, gochujang, Rice,Short-grain rice,Carrot",
+                "rating": 4.4
+                
+              },
+          {
+            "name": "Japchae",
+            "description": "Soak shiitake mushrooms in warm water, drain and slice them thinly. Julienne onion, red bell pepper, and carrot. Blanch spinach and chop it into bite-sized pieces. Cook sweet potato starch noodles, drain and rinse with cold water. Stir-fry mushrooms, onions, carrots, and bell pepper with soy sauce, sugar, and sesame oil. Add spinach and noodles, stir until coated in sauce. Garnish with sesame seeds and scallions. Serve hot or at room temperature.",
+            "img_url": "https://example.com/japchae.jpg",
+            "ingredients" : "sugar, vegetables oil, beef, spinach, Boil-Water ,carrot,onion",
+            "rating": 4.6
+          },
+          {
+            "name": "Tteokbokki",
+            "description": "A popular Korean street food made from soft rice cakes, fish cakes, and sweet/spicy chili sauce.",
+            "img_url": "https://example.com/tteokbokki.jpg",
+            "ingredients" : " vegetables, meat, egg, gochujang, Rice",
+            "rating": 4.5
+          },
+          {
+            "name": "Budae-jjigae",
+            "description": "To make Budae-jjigae, start by sautéing sliced onion and minced garlic in a large pot until fragrant. Then, add sliced Spam and hot dogs and cook for a few minutes until they are slightly browned. Next, add chicken or beef broth, water, and kimchi to the pot, and bring everything to a boil. Once the liquid is boiling, add gochujang (Korean red pepper paste), gochugaru (Korean red pepper flakes), soy sauce, fish sauce, and sugar, and stir everything together to combine. Finally, add sliced tofu and American cheese to the pot, and let everything simmer until the cheese is melted and the tofu is heated through. Once the dish is ready, serve it hot, garnished with sliced green onions. Enjoy!",
+            "img_url": "https://example.com/budae-jjigae.jpg",
+            "ingredients" : " Ham, sausage, Spam, baked-beans, kimchi",
+            "rating": 4.3
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Jung Sik Yim",
+        "experience_years": 20,
+        "rating": 4.9,
+        "Numbers_of_recipes" : 4,
+        "Likes" : "1.5k",
+        "img_url": "https://elements-video-cover-images-0.imgix.net/files/07ff0fbe-ff84-43a0-9c4c-08d8e201c6fb/inline_image_preview.jpg?auto=compress&crop=edges&fit=crop&fm=jpeg&h=800&w=1200&s=d6de97a5403a8a1de1bdb10faa4e98da",
+        "country": "Korea",
+        "bio": "Jung Sik Yim is a Korean actor and chef. He is passionate about creating new and innovative dishes that blend traditional Korean flavors with modern techniques. He has been featured in several food magazines and has his own cooking show on TV.",
+        "recipes": [
+            {
+                "name": "Japchae",
+                "description": "Soak shiitake mushrooms in warm water, drain and slice them thinly. Julienne onion, red bell pepper, and carrot. Blanch spinach and chop it into bite-sized pieces. Cook sweet potato starch noodles, drain and rinse with cold water. Stir-fry mushrooms, onions, carrots, and bell pepper with soy sauce, sugar, and sesame oil. Add spinach and noodles, stir until coated in sauce. Garnish with sesame seeds and scallions. Serve hot or at room temperature.",
+                "img_url": "https://example.com/japchae.jpg",
+                "ingredients" : "sugar, vegetables oil, beef, spinach, Boil-Water ,carrot,onion",
+                "rating": 4.6
+
+              },
+          {
+            "name": "Galbi",
+            "description": "A Korean dish made from marinated beef short ribs, grilled or broiled to perfection.",
+            "img_url": "https://example.com/galbi.jpg",
+            "ingredients" : "Marinated-beef, Grilled, Beef, Pork, Boil-Water",
+            "rating": 4.0
+          },
+          
+          {
+            "name": "Tteokbokki",
+            "description": "A popular Korean street food made from soft rice cakes, fish cakes, and sweet/spicy chili sauce.",
+            "img_url": "https://example.com/tteokbokki.jpg",
+            "ingredients" : " Vegetables, Meat, Egg, Gochujang, Rice",
+            "rating": 4.5
+          },
+          {
+            "name": "Bulgogi",
+            "description": "A Korean dish made from marinated beef or pork, thinly sliced and grilled or stir-fried.",
+            "img_url": "https://example.com/bulgogi.jpg",
+            "ingredients" : "Marinated-beef, Grilled, Beef, Pork, Boil-Water",
+            "rating": 4.1
+          }
+        ]
+      },
+      {
+        "id": 4,
+      "name": "Tae Hwan Ryu",
+      "experience_years": 8,
+      "rating": 4.3,
+      "Numbers_of_recipes" : 7,
+      "Likes" : "1.5k",
+      "img_url": "https://res.heraldm.com/phpwas/restmb_idxmake.php?idx=621&simg=/content/image/2019/07/11/20190711000539_0.jpg",
+      "country": "Korea",
+      "bio": "Tae Hwan Ryu is a Korea chef and restaurateur. He is known for his innovative approach to Asian cuisine and his commitment to using only the freshest and most sustainable ingredients. He has worked in some of the top restaurants in Europe and Asia and has won numerous culinary awards.",
+        "recipes": [
+            {
+                "name": "Galbi",
+                "description": "A Korean dish made from marinated beef short ribs, grilled or broiled to perfection.",
+                "img_url": "https://example.com/galbi.jpg",
+                "ingredients" : "Marinated-beef, Grilled, Beef, Pork, Boil-Water",
+                "rating": 4.0
+              },
+              {
+                "name": "Bulgogi",
+                "description": "A Korean dish made from marinated beef or pork, thinly sliced and grilled or stir-fried.",
+                "img_url": "https://example.com/bulgogi.jpg",
+                "ingredients" : "Marinated-beef, Grilled, Beef, Pork, Boil-Water",
+                "rating": 4.1
+              },
+          {
+            "name": "Bibimbap",
+            "description": "To make Bibimbap, cook short-grain rice and marinate beef in bulgogi sauce. Prepare vegetables by julienning carrot, zucchini, and slicing shiitake mushrooms. Sauté the vegetables with garlic, soy sauce, sugar, and gochujang. Fry eggs until whites are set but yolks are runny. Assemble bibimbap by topping rice with beef, vegetables, and egg, garnish with sesame seeds and scallions, mix and enjoy!",
+            "img_url": "https://example.com/bibimbap.jpg",
+            "ingredients" : " vegetables, meat, egg, gochujang, Rice,Short-grain rice,Carrot",
+            "rating": 4.4
+          },
+          {
+            "name": "Kimchi",
+            "description": "A traditional Korean side dish made from salted and fermented vegetables, most commonly napa cabbage and Korean radishes.",
+            "img_url": "https://example.com/kimchi.jpg",
+            "ingredients" : "Marinated-beef, Grilled, Beef, Pork, Boil-Water",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Jin Soo Choi",
+        "experience_years": 15,
+        "rating": 4.8,
+        "Numbers_of_recipes" : 3,
+        "Likes" : "1.5k",
+        "img_url": "https://www.vmcdn.ca/f/files/rwcpulse/images/redwoodcitypulse/stories/twelvemonth-18.jpg;w=1200;h=800;mode=crop",
+        "country": "Korea",
+         "bio": "Jin Soo Choi, better known as Chef Wan, is a Korea celebrity chef and TV personality. He is known for his energetic personality and his traditional Malaysian cooking. He has published several cookbooks and has his own cooking show on TV.",
+        "recipes": [
+            {
+                "name": "Galbi",
+                "description": "A Korean dish made from marinated beef short ribs, grilled or broiled to perfection.",
+                "img_url": "https://example.com/galbi.jpg",
+                "ingredients" : "Marinated-beef, Grilled, Beef, Pork, Boil-Water",
+                "rating": 4.0
+              },
+          {
+            "name": "Bibimbap",
+            "description": "To make Bibimbap, cook short-grain rice and marinate beef in bulgogi sauce. Prepare vegetables by julienning carrot, zucchini, and slicing shiitake mushrooms. Sauté the vegetables with garlic, soy sauce, sugar, and gochujang. Fry eggs until whites are set but yolks are runny. Assemble bibimbap by topping rice with beef, vegetables, and egg, garnish with sesame seeds and scallions, mix and enjoy!",
+            "img_url": "https://example.com/bibimbap.jpg",
+            "ingredients" : " vegetables, meat, egg, gochujang, Rice,Short-grain rice,Carrot",
+            "rating": 4.4
+          },
+          {
+            "name": "Budae-jjigae",
+            "description": "To make Budae-jjigae, start by sautéing sliced onion and minced garlic in a large pot until fragrant. Then, add sliced Spam and hot dogs and cook for a few minutes until they are slightly browned. Next, add chicken or beef broth, water, and kimchi to the pot, and bring everything to a boil. Once the liquid is boiling, add gochujang (Korean red pepper paste), gochugaru (Korean red pepper flakes), soy sauce, fish sauce, and sugar, and stir everything together to combine. Finally, add sliced tofu and American cheese to the pot, and let everything simmer until the cheese is melted and the tofu is heated through. Once the dish is ready, serve it hot, garnished with sliced green onions. Enjoy!",
+            "img_url": "https://example.com/budae-jjigae.jpg",
+            "ingredients" : "Sausage, Spam,American cheese, Noodles, Kimchi,onion fish sauce",
+            "rating": 4.3
+          },
+          {
+            "name": "Kimchi",
+            "description": "A traditional Korean side dish made from salted and fermented vegetables, most commonly napa cabbage and Korean radishes.",
+            "img_url": "https://example.com/kimchi.jpg",
+            "ingredients" : "Marinated-beef, Grilled, Beef, Pork, Boil-Water",
+            "rating": 4.8
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "name": "Hyeon-seok Choi",
+        "experience_years": 10,
+        "rating": 4.6,
+        "Likes" : "1.5k",
+        "img_url": "https://www.csftw.edu/wp-content/uploads/Types-of-Chefs.jpg",
+        "country": "Korea",
+        "bio": "Hyeon-seok Choi, better known as Chef Wan, is a Korean celebrity chef and TV personality. He is known for his energetic personality and his traditional Malaysian cooking. He has published several cookbooks and has his own cooking show on TV.",
+        "Numbers_of_recipes" : 6,
+        "recipes": [
+            {
+                "name": "Bibimbap",
+                "description": "To make Bibimbap, cook short-grain rice and marinate beef in bulgogi sauce. Prepare vegetables by julienning carrot, zucchini, and slicing shiitake mushrooms. Sauté the vegetables with garlic, soy sauce, sugar, and gochujang. Fry eggs until whites are set but yolks are runny. Assemble bibimbap by topping rice with beef, vegetables, and egg, garnish with sesame seeds and scallions, mix and enjoy!",
+                "img_url": "https://example.com/bibimbap.jpg",
+                "ingredients" : " vegetables, meat, egg, gochujang, Rice,Short-grain rice,Carrot",
+                "rating": 4.4
+              },
+          {
+            "name": "Japchae",
+            "description": "Soak shiitake mushrooms in warm water, drain and slice them thinly. Julienne onion, red bell pepper, and carrot. Blanch spinach and chop it into bite-sized pieces. Cook sweet potato starch noodles, drain and rinse with cold water. Stir-fry mushrooms, onions, carrots, and bell pepper with soy sauce, sugar, and sesame oil. Add spinach and noodles, stir until coated in sauce. Garnish with sesame seeds and scallions. Serve hot or at room temperature.",
+            "img_url": "https://example.com/japchae.jpg",
+            "ingredients" : "sugar, vegetables oil, beef, spinach, Boil-Water ,carrot,onion",
+            "rating": 4.6
+          },
+          {
+            "name": "Tteokbokki",
+            "description": "A popular Korean street food made from soft rice cakes, fish cakes, and sweet/spicy chili sauce.",
+            "img_url": "https://example.com/tteokbokki.jpg",
+            "ingredients" : " Vegetables, Meat, Egg, Gochujang, Rice",
+            "rating": 4.5
+          },
+          {
+            "name": "Budae-jjigae",
+            "description": "To make Budae-jjigae, start by sautéing sliced onion and minced garlic in a large pot until fragrant. Then, add sliced Spam and hot dogs and cook for a few minutes until they are slightly browned. Next, add chicken or beef broth, water, and kimchi to the pot, and bring everything to a boil. Once the liquid is boiling, add gochujang (Korean red pepper paste), gochugaru (Korean red pepper flakes), soy sauce, fish sauce, and sugar, and stir everything together to combine. Finally, add sliced tofu and American cheese to the pot, and let everything simmer until the cheese is melted and the tofu is heated through. Once the dish is ready, serve it hot, garnished with sliced green onions. Enjoy!",
+            "img_url": "https://example.com/budae-jjigae.jpg",
+            "ingredients" : "Sausage, Spam, Beef, Noodles, Kimchi",
+            "rating": 4.3
+          }
+        ]
+      }
+      
+      ]}
